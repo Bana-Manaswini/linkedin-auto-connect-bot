@@ -12,8 +12,8 @@ Automatically handles delays and waits using WebDriverWait
 Includes browser-based fallback for CAPTCHA or manual verification
 
 🚀 Tech Stack:
-Python
-Streamlit
-Selenium WebDriver
-GeckoDriver + Firefox
-Webdriver Manager
+Python,
+Streamlit,
+Selenium WebDriver,
+GeckoDriver + Firefox,
+Webdriver Manager.
